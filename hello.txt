@@ -7,6 +7,7 @@ This is my second contribute
 This is my third contribute
 This is my fourth contribute
 
-This is my fifth contribute
-This is my sixth contribute
-This is my eigth contribute
+This is my fifth contribution.
+This is my sixth contribution.
+This is my seven contribution.
+This is my eigth contribution.
